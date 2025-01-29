@@ -1,4 +1,4 @@
-# electron-app
+# Note Sparkle
 
 An Electron application with React and TypeScript
 
