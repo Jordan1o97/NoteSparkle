@@ -1,0 +1,1 @@
+In src/main/index.ts we are setting the environment to be sandbox:true and contextIsolation:true for security reasons
